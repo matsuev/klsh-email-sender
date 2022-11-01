@@ -1,0 +1,6 @@
+---
+host: smtp.mail.ru
+port: 935
+data: datafile.csv
+---
+
